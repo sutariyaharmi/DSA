@@ -4,7 +4,7 @@ int n;
 void display(int a[]){
     int i;
     printf("\n");
-      for(i=0; i<n; i++)
+      for(i=0; i<n; i++)e
         printf("%d ",a[i]);
 }
 void quicksort(int a[] , int first , int last){
